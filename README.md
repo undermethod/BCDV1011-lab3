@@ -11,7 +11,7 @@
         "https://webui.ipfs.io",
         "http://localhost:3000"
       ]
-    }```
+    }
 2. If IPFS launches and port 5001 is busy, click to "use 5002 instead". If IPFS launches with 5001, change "/react/src/App.js:6" from 5002 to 5001
 3. cd into "/react" and "npm i", then perform "npm start"
 4. If not auto-launched, navigate to http://localhost:3000
